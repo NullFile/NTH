@@ -1,0 +1,3390 @@
+fileFormatVersion: 2
+guid: 9758a273e92543449ab3443112fb9fa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1098286324429101383
+    second: Fire_0
+  - first:
+      213: 7419590508823533442
+    second: Fire_1
+  - first:
+      213: 2333874723133794383
+    second: Fire_2
+  - first:
+      213: 6211036013863027259
+    second: Fire_3
+  - first:
+      213: 2168491126659702453
+    second: Fire_4
+  - first:
+      213: 3081219861163341933
+    second: Fire_5
+  - first:
+      213: 519553080483729991
+    second: Fire_6
+  - first:
+      213: 964659150160153652
+    second: Fire_7
+  - first:
+      213: -6879244290724207698
+    second: Fire_8
+  - first:
+      213: 7786682891651826984
+    second: Fire_9
+  - first:
+      213: 4566438268169137410
+    second: Fire_10
+  - first:
+      213: -2935316082851191871
+    second: Fire_11
+  - first:
+      213: 1139766347546768350
+    second: Fire_12
+  - first:
+      213: -3504707368110082297
+    second: Fire_13
+  - first:
+      213: -2272540988029289637
+    second: Fire_14
+  - first:
+      213: 2045966969392695537
+    second: Fire_15
+  - first:
+      213: -6901665338007210764
+    second: Fire_16
+  - first:
+      213: 4766891797043729122
+    second: Fire_17
+  - first:
+      213: 444094727741348435
+    second: Fire_18
+  - first:
+      213: -1758411982509757578
+    second: Fire_19
+  - first:
+      213: -5137099546968484429
+    second: Fire_20
+  - first:
+      213: -641952491318446459
+    second: Fire_21
+  - first:
+      213: -1973438801538605938
+    second: Fire_22
+  - first:
+      213: 772957503022005228
+    second: Fire_23
+  - first:
+      213: 5304754789124449768
+    second: Fire_24
+  - first:
+      213: 6079281201130235178
+    second: Fire_25
+  - first:
+      213: -1722220065208626567
+    second: Fire_26
+  - first:
+      213: 4655973304768222979
+    second: Fire_27
+  - first:
+      213: -1069319841398368633
+    second: Fire_28
+  - first:
+      213: 7399927521746986216
+    second: Fire_29
+  - first:
+      213: 8991902816260117805
+    second: Fire_30
+  - first:
+      213: 381148431139271438
+    second: Fire_31
+  - first:
+      213: -8244945048827673522
+    second: Fire_32
+  - first:
+      213: -3357401893459237759
+    second: Fire_33
+  - first:
+      213: 6568149607337392206
+    second: Fire_34
+  - first:
+      213: 3290616911281352382
+    second: Fire_35
+  - first:
+      213: 7314369250602759108
+    second: Fire_36
+  - first:
+      213: -6233926501117033428
+    second: Fire_37
+  - first:
+      213: -5096907169495434886
+    second: Fire_38
+  - first:
+      213: 2915462249464181954
+    second: Fire_39
+  - first:
+      213: 8589314952685129482
+    second: Fire_40
+  - first:
+      213: -2467798649821560340
+    second: Fire_41
+  - first:
+      213: 8991070657001364819
+    second: Fire_42
+  - first:
+      213: -8306631196721069497
+    second: Fire_43
+  - first:
+      213: -7721642291996894892
+    second: Fire_44
+  - first:
+      213: 5991943019245021030
+    second: Fire_45
+  - first:
+      213: -3363401448469233306
+    second: Fire_46
+  - first:
+      213: 46023460321967589
+    second: Fire_47
+  - first:
+      213: -8354009889638410696
+    second: Fire_48
+  - first:
+      213: 8464688195033678354
+    second: Fire_49
+  - first:
+      213: 6810520574790101397
+    second: Fire_50
+  - first:
+      213: -8736853971446486318
+    second: Fire_51
+  - first:
+      213: 1332472536818555560
+    second: Fire_52
+  - first:
+      213: -7302613078412638333
+    second: Fire_53
+  - first:
+      213: 3496482224698954367
+    second: Fire_54
+  - first:
+      213: -8277446622367235878
+    second: Fire_55
+  - first:
+      213: -1108905028603913086
+    second: Fire_56
+  - first:
+      213: 3021090518888610162
+    second: Fire_57
+  - first:
+      213: 6963095238286115096
+    second: Fire_58
+  - first:
+      213: -4045372998008655490
+    second: Fire_59
+  - first:
+      213: -4377225749008532596
+    second: Fire_60
+  - first:
+      213: -7560899350731408239
+    second: Fire_61
+  - first:
+      213: 2146833731636242949
+    second: Fire_62
+  - first:
+      213: 5895266925380366602
+    second: Fire_63
+  - first:
+      213: 4178647132374432625
+    second: Fire_64
+  - first:
+      213: -5775479214617486940
+    second: Fire_65
+  - first:
+      213: 44670454467336248
+    second: Fire_66
+  - first:
+      213: 3049486212488586558
+    second: Fire_67
+  - first:
+      213: -2998087299646323782
+    second: Fire_68
+  - first:
+      213: -3078009502928185560
+    second: Fire_69
+  - first:
+      213: -2924657357275781364
+    second: Fire_70
+  - first:
+      213: 8564557647398826936
+    second: Fire_71
+  - first:
+      213: 7852506320005107060
+    second: Fire_72
+  - first:
+      213: 8535229982585583969
+    second: Fire_73
+  - first:
+      213: 7306524754833092940
+    second: Fire_74
+  - first:
+      213: -9034864043689202851
+    second: Fire_75
+  - first:
+      213: -3950419866195671968
+    second: Fire_76
+  - first:
+      213: 6360845206411100637
+    second: Fire_77
+  - first:
+      213: -2922704400060689429
+    second: Fire_78
+  - first:
+      213: -7976167059226625368
+    second: Fire_79
+  - first:
+      213: 5773634428806951897
+    second: Fire_80
+  - first:
+      213: -8432989219264426500
+    second: Fire_81
+  - first:
+      213: 6710914587236479919
+    second: Fire_82
+  - first:
+      213: -16556980920436047
+    second: Fire_83
+  - first:
+      213: -7955100466552554581
+    second: Fire_84
+  - first:
+      213: -4261388303558623472
+    second: Fire_85
+  - first:
+      213: -5007769563513426241
+    second: Fire_86
+  - first:
+      213: -7919463614373291905
+    second: Fire_87
+  - first:
+      213: 6091712486886459723
+    second: Fire_88
+  - first:
+      213: 3623855443821089702
+    second: Fire_89
+  - first:
+      213: -3506277355176312117
+    second: Fire_90
+  - first:
+      213: 1593152379263157770
+    second: Fire_91
+  - first:
+      213: -1087983736315457149
+    second: Fire_92
+  - first:
+      213: 3192487986202824692
+    second: Fire_93
+  - first:
+      213: 5652600383770452769
+    second: Fire_94
+  - first:
+      213: -1436951099815156224
+    second: Fire_95
+  - first:
+      213: -5609323811817510036
+    second: Fire_96
+  - first:
+      213: 6856503264367104469
+    second: Fire_97
+  - first:
+      213: -8487883678876719138
+    second: Fire_98
+  - first:
+      213: -7789019587884465660
+    second: Fire_99
+  - first:
+      213: 4226062828757100733
+    second: Fire_100
+  - first:
+      213: -4735535811146672423
+    second: Fire_101
+  - first:
+      213: -3946894821999141625
+    second: Fire_102
+  - first:
+      213: -3743318342888917119
+    second: Fire_103
+  - first:
+      213: -5709010834172285618
+    second: Fire_104
+  - first:
+      213: -3725758517280160402
+    second: Fire_105
+  - first:
+      213: 4593395064080867175
+    second: Fire_106
+  - first:
+      213: -6552923136566557459
+    second: Fire_107
+  - first:
+      213: -6402293087869026194
+    second: Fire_108
+  - first:
+      213: 3780810757011997770
+    second: Fire_109
+  - first:
+      213: 7761082440034016235
+    second: Fire_110
+  - first:
+      213: 3965963855047632113
+    second: Fire_111
+  - first:
+      213: 3582964221121390292
+    second: Fire_112
+  - first:
+      213: 5688072346995897728
+    second: Fire_113
+  - first:
+      213: -4378033409250818208
+    second: Fire_114
+  - first:
+      213: 3230113601702844995
+    second: Fire_115
+  - first:
+      213: -2690542945593359683
+    second: Fire_116
+  - first:
+      213: 3993821797492629250
+    second: Fire_117
+  - first:
+      213: -758704900539570432
+    second: Fire_118
+  - first:
+      213: -5639241066256269771
+    second: Fire_119
+  - first:
+      213: -1403606930187526228
+    second: Fire_120
+  - first:
+      213: 5250425023788724397
+    second: Fire_121
+  - first:
+      213: 6093492335138826838
+    second: Fire_122
+  - first:
+      213: 8548101620099136944
+    second: Fire_123
+  - first:
+      213: -3854989685095564225
+    second: Fire_124
+  - first:
+      213: -8959610479659994784
+    second: Fire_125
+  - first:
+      213: -7173563828998272941
+    second: Fire_126
+  - first:
+      213: 2260893054021845734
+    second: Fire_127
+  - first:
+      213: -8444315865641912561
+    second: Fire_128
+  - first:
+      213: 5516367997087893467
+    second: Fire_129
+  - first:
+      213: -2216317267971353808
+    second: TurretFire_0
+  - first:
+      213: -1767309982075675291
+    second: TurretFire_1
+  - first:
+      213: -6498720324010442292
+    second: TurretFire_2
+  - first:
+      213: 7310458171568084888
+    second: TurretFire_3
+  - first:
+      213: 5060203837760724753
+    second: TurretFire_4
+  - first:
+      213: 3879903311364634088
+    second: TurretFire_5
+  - first:
+      213: -9180905507325071791
+    second: TurretFire_6
+  - first:
+      213: 6367669323670332806
+    second: TurretFire_7
+  - first:
+      213: -2791459683845395632
+    second: TurretFire_8
+  - first:
+      213: -888834821687431545
+    second: TurretFire_9
+  - first:
+      213: 8787950887000214881
+    second: TurretFire_10
+  - first:
+      213: 1237419419030651625
+    second: TurretFire_11
+  - first:
+      213: 4264150706359829673
+    second: TurretFire_12
+  - first:
+      213: 4062482910594770043
+    second: TurretFire_13
+  - first:
+      213: 3450735201444023393
+    second: TurretFire_14
+  - first:
+      213: -8356518116742014779
+    second: TurretFire_15
+  - first:
+      213: -2004051177799574624
+    second: TurretFire_16
+  - first:
+      213: 4362919413772862004
+    second: TurretFire_17
+  - first:
+      213: -5315134704328865834
+    second: TurretFire_18
+  - first:
+      213: -1388460745059724815
+    second: TurretFire_19
+  - first:
+      213: -2549632326229832562
+    second: TurretFire_20
+  - first:
+      213: -3586439464781104444
+    second: TurretFire_21
+  - first:
+      213: 8837711173631605932
+    second: TurretFire_22
+  - first:
+      213: -8041528954320824220
+    second: TurretFire_23
+  - first:
+      213: 7115271934330704762
+    second: TurretFire_24
+  - first:
+      213: 8388027949661594883
+    second: TurretFire_25
+  - first:
+      213: 1011499552530537452
+    second: TurretFire_26
+  - first:
+      213: -7545128913717410989
+    second: TurretFire_27
+  - first:
+      213: 2373202721692074023
+    second: TurretFire_28
+  - first:
+      213: 5682431737072832206
+    second: TurretFire_29
+  - first:
+      213: -8243888141045882441
+    second: TurretFire_30
+  - first:
+      213: 247719137278581904
+    second: TurretFire_31
+  - first:
+      213: 1111094529907639396
+    second: TurretFire_32
+  - first:
+      213: -2956815029237822022
+    second: TurretFire_33
+  - first:
+      213: 6875312563287950193
+    second: TurretFire_34
+  - first:
+      213: 8122777527172811368
+    second: TurretFire_35
+  - first:
+      213: 1752013771438256923
+    second: TurretFire_36
+  - first:
+      213: 4674511201663664857
+    second: TurretFire_37
+  - first:
+      213: -7922249977636328867
+    second: TurretFire_38
+  - first:
+      213: -451620709499650120
+    second: TurretFire_39
+  - first:
+      213: 516359652267804530
+    second: TurretFire_40
+  - first:
+      213: -4755517807992755021
+    second: TurretFire_41
+  - first:
+      213: 3840484904242066581
+    second: TurretFire_42
+  - first:
+      213: 8147514646056243865
+    second: TurretFire_43
+  - first:
+      213: 1866906706559456670
+    second: TurretFire_44
+  - first:
+      213: -4053939086568168824
+    second: TurretFire_45
+  - first:
+      213: -6673119664729439276
+    second: TurretFire_46
+  - first:
+      213: 5949313178037224676
+    second: TurretFire_47
+  - first:
+      213: 7489580449443398081
+    second: TurretFire_48
+  - first:
+      213: 4286581053533368889
+    second: TurretFire_49
+  - first:
+      213: -5374566445731943002
+    second: TurretFire_50
+  - first:
+      213: -7536278288583233407
+    second: TurretFire_51
+  - first:
+      213: 3789640492206485920
+    second: TurretFire_52
+  - first:
+      213: -3630229778590928863
+    second: TurretFire_53
+  - first:
+      213: 4944774966250355740
+    second: TurretFire_54
+  - first:
+      213: -6216843190672156348
+    second: TurretFire_55
+  - first:
+      213: 8539331150178903794
+    second: TurretFire_56
+  - first:
+      213: -8060300272024977693
+    second: TurretFire_57
+  - first:
+      213: 4277794300323194597
+    second: TurretFire_58
+  - first:
+      213: 8134647050541373805
+    second: TurretFire_59
+  - first:
+      213: 380658363915026579
+    second: TurretFire_60
+  - first:
+      213: -6573271475833189343
+    second: TurretFire_61
+  - first:
+      213: 582409658358451952
+    second: TurretFire_62
+  - first:
+      213: -5346712570958147835
+    second: TurretFire_63
+  - first:
+      213: -3304137903915140889
+    second: TurretFire_64
+  - first:
+      213: -6750402820012741059
+    second: TurretFire_65
+  - first:
+      213: 2660409676770339722
+    second: TurretFire_66
+  - first:
+      213: -520548308521677506
+    second: TurretFire_67
+  - first:
+      213: -9044139141032436225
+    second: TurretFire_68
+  - first:
+      213: -6460775296850347699
+    second: TurretFire_69
+  - first:
+      213: -380066573316020581
+    second: TurretFire_70
+  - first:
+      213: 6377426297596205630
+    second: TurretFire_71
+  - first:
+      213: 3034520581923969554
+    second: TurretFire_72
+  - first:
+      213: -1372118679154848430
+    second: TurretFire_73
+  - first:
+      213: -8303736227253206008
+    second: TurretFire_74
+  - first:
+      213: -8225173390316245308
+    second: TurretFire_75
+  - first:
+      213: -71184720215293008
+    second: TurretFire_76
+  - first:
+      213: -3765309273126379448
+    second: TurretFire_77
+  - first:
+      213: -2321396306717970965
+    second: TurretFire_78
+  - first:
+      213: -5394938898003896289
+    second: TurretFire_79
+  - first:
+      213: 5980533196938611727
+    second: TurretFire_80
+  - first:
+      213: 6655832327792255354
+    second: TurretFire_81
+  - first:
+      213: -5245464540133467440
+    second: TurretFire_82
+  - first:
+      213: -6294422750238106869
+    second: TurretFire_83
+  - first:
+      213: -8562656029867325253
+    second: TurretFire_84
+  - first:
+      213: 1613643053318969261
+    second: TurretFire_85
+  - first:
+      213: -5197831680818968784
+    second: TurretFire_86
+  - first:
+      213: -8305409395478565478
+    second: TurretFire_87
+  - first:
+      213: 9133728170159491088
+    second: TurretFire_88
+  - first:
+      213: -97888588578445297
+    second: TurretFire_89
+  - first:
+      213: 2005126746027526544
+    second: TurretFire_90
+  - first:
+      213: 5796761240246361788
+    second: TurretFire_91
+  - first:
+      213: 201591961375554432
+    second: TurretFire_92
+  - first:
+      213: -5012966026742874383
+    second: TurretFire_93
+  - first:
+      213: -1777119307019031706
+    second: TurretFire_94
+  - first:
+      213: -6601390409009413514
+    second: TurretFire_95
+  - first:
+      213: -6287519440940698864
+    second: TurretFire_96
+  - first:
+      213: 2051318476273336076
+    second: TurretFire_97
+  - first:
+      213: 2906534304999556705
+    second: TurretFire_98
+  - first:
+      213: -5355305015297880264
+    second: TurretFire_99
+  - first:
+      213: 3243782092288967145
+    second: TurretFire_100
+  - first:
+      213: -4736764077474098307
+    second: TurretFire_101
+  - first:
+      213: -6398974113925062616
+    second: TurretFire_102
+  - first:
+      213: 8876715285991488586
+    second: TurretFire_103
+  - first:
+      213: -7719519553273841528
+    second: TurretFire_104
+  - first:
+      213: 9134915628381062600
+    second: TurretFire_105
+  - first:
+      213: -7619007741620204670
+    second: TurretFire_106
+  - first:
+      213: -2362496612763942488
+    second: TurretFire_107
+  - first:
+      213: -7129235629026224960
+    second: TurretFire_108
+  - first:
+      213: -6987368546741832296
+    second: TurretFire_109
+  - first:
+      213: -865908505172701654
+    second: TurretFire_110
+  - first:
+      213: 7030360620256328745
+    second: TurretFire_111
+  - first:
+      213: 1817611104680210282
+    second: TurretFire_112
+  - first:
+      213: 3010827803489041161
+    second: TurretFire_113
+  - first:
+      213: -683354059577166575
+    second: TurretFire_114
+  - first:
+      213: -2747452088319001800
+    second: TurretFire_115
+  - first:
+      213: 1720894677578656431
+    second: TurretFire_116
+  - first:
+      213: -8859459058659875864
+    second: TurretFire_117
+  - first:
+      213: -2038254607313406255
+    second: TurretFire_118
+  - first:
+      213: 7386860433162225649
+    second: TurretFire_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurretFire_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d005ff2f0e31e0800000000000000
+      internalID: -2216317267971353808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d90665fe04977e0800000000000000
+      internalID: -1767309982075675291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc10fb80c48efc5a0800000000000000
+      internalID: -6498720324010442292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897daad79f6f37560800000000000000
+      internalID: 7310458171568084888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fdbc09494793640800000000000000
+      internalID: 5060203837760724753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e530cc418f28d530800000000000000
+      internalID: 3879903311364634088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e2677651fd69080800000000000000
+      internalID: -9180905507325071791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a58433818e5850800000000000000
+      internalID: 6367669323670332806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_8
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b2293153eb249d0800000000000000
+      internalID: -2791459683845395632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ea25d50793aa3f0800000000000000
+      internalID: -888834821687431545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d0a3b65c215f970800000000000000
+      internalID: 8787950887000214881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e20e7dc7623c2110800000000000000
+      internalID: 1237419419030651625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a40f49997e4d2b30800000000000000
+      internalID: 4264150706359829673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a818eea6d06830800000000000000
+      internalID: 4062482910594770043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc108026973ef20800000000000000
+      internalID: 3450735201444023393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_15
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d97c2c0fa70c80800000000000000
+      internalID: -8356518116742014779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_16
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9d8b521e2034e0800000000000000
+      internalID: -2004051177799574624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_17
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432469157143c8c30800000000000000
+      internalID: 4362919413772862004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_18
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7802fa529dc36b0800000000000000
+      internalID: -5315134704328865834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_19
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 692
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1142a0f423bbce0800000000000000
+      internalID: -1388460745059724815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cc73768e2ed9cd0800000000000000
+      internalID: -2549632326229832562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cab74dfe486a3ec0800000000000000
+      internalID: -3586439464781104444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacffcbfc7bd5aa70800000000000000
+      internalID: 8837711173631605932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46850ba9500c66090800000000000000
+      internalID: -8041528954320824220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_24
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73961e30268eb260800000000000000
+      internalID: 7115271934330704762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_25
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305a0a18af2486470800000000000000
+      internalID: 8388027949661594883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_26
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb9c0fdb71990e00800000000000000
+      internalID: 1011499552530537452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_27
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35348519a315a4790800000000000000
+      internalID: -7545128913717410989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_28
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72042763d4f4fe020800000000000000
+      internalID: 2373202721692074023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_29
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 628
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec1acde8d0cde40800000000000000
+      internalID: 5682431737072832206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a7e8e963d79d80800000000000000
+      internalID: -8243888141045882441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c5e8d2e33107300800000000000000
+      internalID: 247719137278581904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464460f86966b6f00800000000000000
+      internalID: 1111094529907639396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4eb3956847f6d0800000000000000
+      internalID: -2956815029237822022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_34
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1730f8e69540a6f50800000000000000
+      internalID: 6875312563287950193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_35
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a49a8ef17e9b070800000000000000
+      internalID: 8122777527172811368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_36
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b137b281e37605810800000000000000
+      internalID: 1752013771438256923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_37
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d24fb9db233fd040800000000000000
+      internalID: 4674511201663664857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_38
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae3258e938e0290800000000000000
+      internalID: -7922249977636328867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_39
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 564
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf30158b558bb9f0800000000000000
+      internalID: -451620709499650120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27744c13e5a7a2700800000000000000
+      internalID: 516359652267804530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2c8bdfb1010eb0800000000000000
+      internalID: -4755517807992755021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_42
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59439923ca42c4530800000000000000
+      internalID: 3840484904242066581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99299783769c11170800000000000000
+      internalID: 8147514646056243865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_44
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95554122c598e910800000000000000
+      internalID: 1866906706559456670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_45
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882680421e38db7c0800000000000000
+      internalID: -4053939086568168824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_46
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c02845015463a0800000000000000
+      internalID: -6673119664729439276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_47
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4857a80d4309250800000000000000
+      internalID: 5949313178037224676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_48
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c8cdbcb550f760800000000000000
+      internalID: 7489580449443398081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_49
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b6c4c1cefc7b30800000000000000
+      internalID: 4286581053533368889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ade9641b44b965b0800000000000000
+      internalID: -5374566445731943002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f18053d2c96790800000000000000
+      internalID: -7536278288583233407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1776403f1879430800000000000000
+      internalID: 3789640492206485920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_53
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120fa0a0045de9dc0800000000000000
+      internalID: -3630229778590928863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_54
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb89d12ae5f9440800000000000000
+      internalID: 4944774966250355740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_55
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4491eab6e0659b9a0800000000000000
+      internalID: -6216843190672156348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_56
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f667d1107cc18670800000000000000
+      internalID: 8539331150178903794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_57
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee77fe9b9f042090800000000000000
+      internalID: -8060300272024977693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_58
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e664fc5047cd5b30800000000000000
+      internalID: 4277794300323194597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_59
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 436
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6992bca46214e070800000000000000
+      internalID: 8134647050541373805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390cfe1e3ce584500800000000000000
+      internalID: 380658363915026579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_61
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c41ce5b6c07c4a0800000000000000
+      internalID: -6573271475833189343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_62
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4630af72251800800000000000000
+      internalID: 582409658358451952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_63
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f8cebae39acc5b0800000000000000
+      internalID: -5346712570958147835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_64
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8fb3c15185522d0800000000000000
+      internalID: -3304137903915140889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_65
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e685e7660c152a0800000000000000
+      internalID: -6750402820012741059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_66
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b68ec618cabe420800000000000000
+      internalID: 2660409676770339722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_67
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d82264214a6c8f0800000000000000
+      internalID: -520548308521677506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_68
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd1e8f7e53cc7280800000000000000
+      internalID: -9044139141032436225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_69
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 372
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49bd912917b656a0800000000000000
+      internalID: -6460775296850347699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96af7a177bb9baf0800000000000000
+      internalID: -380066573316020581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_71
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ad479bd6b218850800000000000000
+      internalID: 6377426297596205630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_72
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a90354468cc1a20800000000000000
+      internalID: 3034520581923969554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_73
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d0c43c45145fce0800000000000000
+      internalID: -1372118679154848430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_74
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c70a75e333cc80800000000000000
+      internalID: -8303736227253206008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_75
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce643e51605add80800000000000000
+      internalID: -8225173390316245308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_76
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c126cfd9130ff0800000000000000
+      internalID: -71184720215293008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_77
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84061d16a2feebbc0800000000000000
+      internalID: -3765309273126379448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_78
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedeb2bbb5eb8cfd0800000000000000
+      internalID: -2321396306717970965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_79
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f185a87e7a35125b0800000000000000
+      internalID: -5394938898003896289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_80
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c05f2a14f1ff250800000000000000
+      internalID: 5980533196938611727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a716e9eec344e5c50800000000000000
+      internalID: 6655832327792255354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_82
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dadf6bdacd5437b0800000000000000
+      internalID: -5245464540133467440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_83
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b9be1abd7b5a8a0800000000000000
+      internalID: -6294422750238106869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_84
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c6ed25b55b2980800000000000000
+      internalID: -8562656029867325253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_85
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da79a5bbecfc46610800000000000000
+      internalID: 1613643053318969261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_86
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037838620a79dd7b0800000000000000
+      internalID: -5197831680818968784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_87
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dee44a8224dbc80800000000000000
+      internalID: -8305409395478565478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_88
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c551d06581ce70800000000000000
+      internalID: 9133728170159491088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_89
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 244
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a73ae8da34aef0800000000000000
+      internalID: -97888588578445297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_90
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0990b92e624a3db10800000000000000
+      internalID: 2005126746027526544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_91
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe13aca2ab327050800000000000000
+      internalID: 5796761240246361788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_92
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b3d5f12d23cc200800000000000000
+      internalID: 201591961375554432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_93
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb3e065fd5e6ab0800000000000000
+      internalID: -5012966026742874383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_94
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b64a5e7676657e0800000000000000
+      internalID: -1777119307019031706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_95
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672c25f06662364a0800000000000000
+      internalID: -6601390409009413514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_96
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013fd54916e3eb8a0800000000000000
+      internalID: -6287519440940698864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_97
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fb77b294fb77c10800000000000000
+      internalID: 2051318476273336076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_98
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1664cf80d85165820800000000000000
+      internalID: 2906534304999556705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_99
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 180
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f4d4356722ea5b0800000000000000
+      internalID: -5355305015297880264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_100
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e148ab60aa340d20800000000000000
+      internalID: 3243782092288967145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_101
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7353510b22a34eb0800000000000000
+      internalID: -4736764077474098307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_102
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a39452f64237a0800000000000000
+      internalID: -6398974113925062616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_103
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c7dc1958d603b70800000000000000
+      internalID: 8876715285991488586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_104
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8883e66bdd1ced490800000000000000
+      internalID: -7719519553273841528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_105
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c541da7d5db5ce70800000000000000
+      internalID: 9134915628381062600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_106
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bc6c383d8d34690800000000000000
+      internalID: -7619007741620204670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_107
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1442509d9b63fd0800000000000000
+      internalID: -2362496612763942488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_108
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c455dbb7fddf0d90800000000000000
+      internalID: -7129235629026224960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_109
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 116
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89537b0d351e70f90800000000000000
+      internalID: -6987368546741832296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e01356dccabf3f0800000000000000
+      internalID: -865908505172701654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_111
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf5455cbbd09160800000000000000
+      internalID: 7030360620256328745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_112
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe44a6ba3793910800000000000000
+      internalID: 1817611104680210282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_113
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b75da6feb98c920800000000000000
+      internalID: 3010827803489041161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_114
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115f4177a1d3486f0800000000000000
+      internalID: -683354059577166575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b375ed1e61fd9d0800000000000000
+      internalID: -2747452088319001800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_116
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaafe07798d1e710800000000000000
+      internalID: 1720894677578656431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_117
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e32672fce0ec0580800000000000000
+      internalID: -8859459058659875864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_118
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f749db3aa6b3e0800000000000000
+      internalID: -2038254607313406255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretFire_119
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 52
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7c50c3d66638660800000000000000
+      internalID: 7386860433162225649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

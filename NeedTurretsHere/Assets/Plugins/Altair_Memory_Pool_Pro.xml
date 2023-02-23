@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Altair_Memory_Pool_Pro</name>
+    </assembly>
+    <members>
+        <member name="T:Altair_Memory_Pool_Pro.MemoryPoolingFlag">
+            <summary>
+            Prefab that will controlled by MemoryPoolManager need this class.
+            </summary>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolingFlag.InitOnDisable">
+            <summary>
+            If need to OnDisable() method, use this method instead.
+            </summary>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolingFlag.ObjectReturn">
+            <summary>
+            Call when object return to memorypool.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Altair_Memory_Pool_Pro.MemoryPoolingFlag.OnDisable" -->
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.ReturnObject">
+            <summary>
+            This funcion called when object returned.
+            </summary>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.ReturnObject(System.Int32,System.Int32)">
+            <summary>
+            This funcion called when object returned.
+            </summary>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.BringObject(System.Int32,UnityEngine.Vector3)">
+            <summary>
+            This function bring an object by index from the memory pool.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.BringObject(System.String,UnityEngine.Vector3)">
+            <summary>
+            This function bring an object by name from the memory pool.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.BringObject(System.Int32,UnityEngine.Vector3,UnityEngine.Vector3)">
+            <summary>
+            This function gets an object by index from the memory pool.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Vector3 rotation value of the object to be bringed.</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.BringObject(System.String,UnityEngine.Vector3,UnityEngine.Vector3)">
+            <summary>
+            This function bring an object by name from the memory pool.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Vector3 rotation value of the object to be bringed.</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.BringObject(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion)">
+            <summary>
+            This function bring an object by index from the memory pool.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Quaternion rotation value of the object to be bringed.</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.BringObject(System.String,UnityEngine.Vector3,UnityEngine.Quaternion)">
+            <summary>
+            This function bring an object by name from the memory pool.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Quaternion rotation value of the object to be bringed.</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.GetObject(System.Int32,UnityEngine.Vector3)">
+            <summary>
+            This function can access objects that have been pulled from the memory pool.
+            Caution : If there is no disabled objects, return null. 
+            If don't handle an exception, an error is raised.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <returns></returns>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.GetObject(System.String,UnityEngine.Vector3)">
+            <summary>
+            This function can access objects that have been pulled from the memory pool.
+            Caution : If there is no disabled objects, return null. 
+            If don't handle an exception, an error is raised.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <returns></returns>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.GetObject(System.Int32,UnityEngine.Vector3,UnityEngine.Vector3)">
+            <summary>
+            This function can access objects that have been pulled from the memory pool.
+            Caution : If there is no disabled objects, return null. 
+            If don't handle an exception, an error is raised.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Vector3 rotation value of the object to be bringed.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.GetObject(System.String,UnityEngine.Vector3,UnityEngine.Vector3)">
+            <summary>
+            This function can access objects that have been pulled from the memory pool.
+            Caution : If there is no disabled objects, return null. 
+            If don't handle an exception, an error is raised.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Vector3 rotation value of the object to be bringed.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.GetObject(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion)">
+            <summary>
+            This function can access objects that have been pulled from the memory pool.
+            Caution : If there is no disabled objects, return null. 
+            If don't handle an exception, an error is raised.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Quaternion rotation value of the object to be bringed.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.GetObject(System.String,UnityEngine.Vector3,UnityEngine.Quaternion)">
+            <summary>
+            This function can access objects that have been pulled from the memory pool.
+            Caution : If there is no disabled objects, return null. 
+            If don't handle an exception, an error is raised.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Quaternion rotation value of the object to be bringed.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.OutObject(System.Int32,UnityEngine.Vector3,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as an out argument.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="obj">Out argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.OutObject(System.String,UnityEngine.Vector3,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as an out argument.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="obj">Out argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.OutObject(System.Int32,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as an out argument.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Vector3 rotation value of the object to be bringed.</param>
+            <param name="obj">Out argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.OutObject(System.String,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as an out argument.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Vector3 rotation value of the object to be bringed.</param>
+            <param name="obj">Out argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.OutObject(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as an out argument.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Quaternion rotation value of the object to be bringed.</param>
+            <param name="obj">Out argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.OutObject(System.String,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as an out argument.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Quaternion rotation value of the object to be bringed.</param>
+            <param name="obj">Out argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.RefObject(System.Int32,UnityEngine.Vector3,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as a ref argument.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="obj">Reference argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.RefObject(System.String,UnityEngine.Vector3,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as a ref argument.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="obj">Reference argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.RefObject(System.Int32,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as a ref argument.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Vector3 rotation value of the object to be bringed.</param>
+            <param name="obj">Reference argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.RefObject(System.String,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as a ref argument.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Vector3 rotation value of the object to be bringed.</param>
+            <param name="obj">Reference argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.RefObject(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as a ref argument.
+            </summary>
+            <param name="index">Index number added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Quaternion rotation value of the object to be bringed.</param>
+            <param name="obj">Reference argument</param>
+        </member>
+        <member name="M:Altair_Memory_Pool_Pro.MemoryPoolManager.RefObject(System.String,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.GameObject@)">
+            <summary>
+            Get the object as a ref argument.
+            </summary>
+            <param name="name">Prefab name added to memory pool</param>
+            <param name="position">Vector3 position to bring the object</param>
+            <param name="rotation">Quaternion rotation value of the object to be bringed.</param>
+            <param name="obj">Reference argument</param>
+        </member>
+    </members>
+</doc>

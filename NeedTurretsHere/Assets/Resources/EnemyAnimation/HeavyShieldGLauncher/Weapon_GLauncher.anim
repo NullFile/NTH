@@ -1,0 +1,4676 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Weapon_GLauncher
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0.5432846, z: 0, w: 0.8395486}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: -2.775558e-16, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.4758845e-15, y: -3.3306693e-16, z: -0.0055968165, w: 0.9999843}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.4758845e-15, y: -3.3306693e-16, z: -0.0055968165, w: 0.9999843}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.4758845e-15, y: -3.3306693e-16, z: -0.0055968165, w: 0.9999843}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.0036990524, y: -0.000015588006, z: -0.0082360925, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.53333336
+        value: {x: -0.0009268786, y: -0.0000051876505, z: -0.0076606465, w: 0.99997026}
+        inSlope: {x: 0.022789389, y: 0.0003341165, z: 0.050754167, w: 0.0004470348}
+        outSlope: {x: 0.022795748, y: 0.00033268495, z: 0.050763592, w: 0.00035762784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0333334
+        value: {x: -0.0032032675, y: -0.000017928376, z: -0.0127292415, w: 0.9999139}
+        inSlope: {x: -0.018872784, y: 0.00002692104, z: -0.04202872, w: -0.0004768371}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.4758845e-15, y: -3.3306693e-16, z: -0.0055968165, w: 0.9999843}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0.003698996, y: 0.000025818163, z: 0.00823522, w: 0.0001117587}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.53333336
+        value: {x: 0.0009268784, y: 0.00000518765, z: -0.0035329561, w: 0.9999933}
+        inSlope: {x: -0.02279201, y: 0.00007899643, z: -0.05075504, w: -0.0002235174}
+        outSlope: {x: -0.022797728, y: 0.000077500765, z: -0.05076499, w: -0.000119209275}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0333334
+        value: {x: 0.0032032675, y: 0.000017928378, z: 0.0015359509, w: 0.9999937}
+        inSlope: {x: 0.018871387, y: 0.00023812751, z: 0.042028952, w: -0.000119209275}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: -0.5432846, z: 0, w: 0.8395486}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.16666669
+        value: {x: 0, y: -0.5432846, z: 0, w: 0.8395486}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.26666668
+        value: {x: 0, y: -0.58397925, z: 0, w: 0.8117686}
+        inSlope: {x: 0, y: -1.1241437, z: 0, w: -0.80823904}
+        outSlope: {x: -3.642985e-19, y: -1.1251864, z: 6.99646e-19, w: -0.80957997}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.40000004
+        value: {x: -1.2404845e-17, y: -0.8011073, z: 1.2404844e-17, w: 0.5985208}
+        inSlope: {x: 2.429119e-16, y: -1.7036495, z: -3.1371027e-16, w: -2.278983}
+        outSlope: {x: 2.4219856e-16, y: -1.7029053, z: -3.1136743e-16, w: -2.2798784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.5
+        value: {x: -3.66934e-17, y: -0.94011265, z: 3.6693394e-17, w: 0.34086385}
+        inSlope: {x: 9.944369e-16, y: -0.9536747, z: -1.2002726e-15, w: -2.6288638}
+        outSlope: {x: 9.918218e-16, y: -0.9530775, z: -1.1955066e-15, w: -2.6294568}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.53333336
+        value: {x: -4.3635673e-17, y: -0.9670836, z: 4.363568e-17, w: 0.25445905}
+        inSlope: {x: 3.8039026e-15, y: -0.6526703, z: -4.0280355e-15, w: -2.479253}
+        outSlope: {x: 3.8020234e-15, y: -0.6508833, z: -4.023774e-15, w: -2.4801517}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.56666666
+        value: {x: -4.9522728e-17, y: -0.98444736, z: 4.9522737e-17, w: 0.17567977}
+        inSlope: {x: 4.3927302e-15, y: -0.17523782, z: -4.491893e-15, w: -0.9821365}
+        outSlope: {x: 4.3927226e-15, y: -0.1752375, z: -4.4910907e-15, w: -0.9785584}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6
+        value: {x: -4.8520654e-17, y: -0.98188424, z: 4.852066e-17, w: 0.18948188}
+        inSlope: {x: 4.3719767e-15, y: 0.0804662, z: -4.331478e-15, w: 0.4179772}
+        outSlope: {x: 4.3786305e-15, y: 0.07975101, z: -4.338489e-15, w: 0.41297072}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.7666667
+        value: {x: -4.7046056e-17, y: -0.97781074, z: 4.7046063e-17, w: 0.20949031}
+        inSlope: {x: 8.4038893e-16, y: 0, z: -8.41183e-16, w: 0}
+        outSlope: {x: 8.434265e-16, y: 0, z: -8.4357536e-16, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333334
+        value: {x: -4.5645332e-17, y: -0.97362006, z: 4.5645335e-17, w: 0.22817528}
+        inSlope: {x: 2.0977468e-15, y: 0.24765731, z: -1.998634e-15, w: 1.0550023}
+        outSlope: {x: 2.0991535e-15, y: 0.24855146, z: -2.0009506e-15, w: 1.0596219}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.93333334
+        value: {x: -2.7251103e-17, y: -0.8937031, z: 2.7251105e-17, w: 0.44865888}
+        inSlope: {x: 9.028183e-16, y: 1.4454131, z: -7.258347e-16, w: 2.8809915}
+        outSlope: {x: 9.036519e-16, y: 1.4457082, z: -7.2872833e-16, w: 2.8780053}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0000001
+        value: {x: -7.239681e-18, y: -0.76374775, z: 7.239681e-18, w: 0.6455148}
+        inSlope: {x: 3.513733e-16, y: 2.3442466, z: -2.9887637e-16, w: 2.7742934}
+        outSlope: {x: 3.5151073e-16, y: 2.3442528, z: -2.9910052e-16, w: 2.7725127}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0666667
+        value: {x: 0, y: -0.59126085, z: 0, w: 0.8064804}
+        inSlope: {x: -2.3892574e-20, y: 2.6017451, z: 3.403941e-20, w: 1.9079465}
+        outSlope: {x: 0, y: 2.5981596, z: 0, w: 1.9043634}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.1000001
+        value: {x: 0, y: -0.5067726, z: 0, w: 0.8620798}
+        inSlope: {x: 0, y: 1.0532113, z: 0, w: 0.62048274}
+        outSlope: {x: 0, y: 1.0514269, z: 0, w: 0.6186968}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.1333334
+        value: {x: 0, y: -0.5234259, z: 0, w: 0.8520712}
+        inSlope: {x: 0, y: -0.49889135, z: 0, w: -0.30577213}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.28468737, y: -5.684342e-16, z: -1.1089705}
+        inSlope: {x: -8.881783e-15, y: -7.888608e-30, z: -1.1419435e-14}
+        outSlope: {x: -8.881783e-15, y: -7.888608e-30, z: -1.1419435e-14}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.26666668
+        value: {x: -0.28468737, y: -5.684342e-16, z: -1.1089705}
+        inSlope: {x: -3.8064792e-15, y: -3.3808327e-30, z: 2.4107701e-14}
+        outSlope: {x: -3.8064792e-15, y: -3.3808327e-30, z: 2.4107701e-14}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.56666666
+        value: {x: -0.15048385, y: -5.684342e-16, z: -0.81014454}
+        inSlope: {x: 0.52415425, y: -3.3808297e-30, z: 1.1671327}
+        outSlope: {x: 0.52415425, y: -3.3808297e-30, z: 1.1671327}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.59999996
+        value: {x: -0.13406615, y: -5.684342e-16, z: -0.77358794}
+        inSlope: {x: 0.00015477715, y: -3.3808357e-30, z: 0.00032463323}
+        outSlope: {x: 0.00015477715, y: -3.3808357e-30, z: 0.00032463323}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6333333
+        value: {x: -0.14316545, y: -5.684342e-16, z: -0.793849}
+        inSlope: {x: -0.21837957, y: -3.3808297e-30, z: -0.48625198}
+        outSlope: {x: -0.21837957, y: -3.3808297e-30, z: -0.48625198}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666666
+        value: {x: -0.14862503, y: -5.684342e-16, z: -0.8060056}
+        inSlope: {x: -0.000050617375, y: -3.3808357e-30, z: -0.000100112426}
+        outSlope: {x: -0.000050617375, y: -3.3808357e-30, z: -0.000100112426}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.9333333
+        value: {x: -0.14862503, y: -5.684342e-16, z: -0.8060056}
+        inSlope: {x: -1.427431e-15, y: -3.3808357e-30, z: -7.612965e-15}
+        outSlope: {x: -1.427431e-15, y: -3.3808357e-30, z: -7.612965e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.37648737, y: 5.684342e-16, z: -0.73433906}
+        inSlope: {x: 4.4408917e-15, y: 7.888608e-30, z: -1.7763567e-14}
+        outSlope: {x: 4.4408917e-15, y: 7.888608e-30, z: -1.7763567e-14}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.26666668
+        value: {x: 0.37648737, y: 5.684342e-16, z: -0.73433906}
+        inSlope: {x: 1.9032396e-15, y: 3.3808327e-30, z: -7.6129585e-15}
+        outSlope: {x: 1.9032396e-15, y: 3.3808327e-30, z: -7.6129585e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.56666666
+        value: {x: 0.1978922, y: 5.684342e-16, z: -0.6541315}
+        inSlope: {x: -0.69753736, y: 3.3808297e-30, z: 0.3132854}
+        outSlope: {x: -0.69753736, y: 3.3808297e-30, z: 0.3132854}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.59999996
+        value: {x: 0.17604388, y: 5.684342e-16, z: -0.64431936}
+        inSlope: {x: -0.0002056522, y: 3.3808357e-30, z: 0.00008867575}
+        outSlope: {x: -0.0002056522, y: 3.3808357e-30, z: 0.00008867575}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6333333
+        value: {x: 0.19405374, y: 5.684342e-16, z: -0.6524076}
+        inSlope: {x: 0.43223158, y: 3.3808297e-30, z: -0.19411273}
+        outSlope: {x: 0.43223158, y: 3.3808297e-30, z: -0.19411273}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666666
+        value: {x: 0.20485963, y: 5.684342e-16, z: -0.6572606}
+        inSlope: {x: 0.00009981833, y: 3.3808357e-30, z: -0.00003420307}
+        outSlope: {x: 0.00009981833, y: 3.3808357e-30, z: -0.00003420307}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.9
+        value: {x: 0.20485963, y: 5.684342e-16, z: -0.6572606}
+        inSlope: {x: 1.903238e-15, y: 3.3808297e-30, z: -5.7097136e-15}
+        outSlope: {x: 1.903238e-15, y: 3.3808297e-30, z: -5.7097136e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.5073344, y: -2.8421708e-15, z: 0.11323899}
+        inSlope: {x: -2.030122e-14, y: -6.3108866e-29, z: 1.4274293e-15}
+        outSlope: {x: -2.030122e-14, y: -6.3108866e-29, z: 1.4274293e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -1.4985402, y: -2.8421708e-15, z: 0.10928946}
+        inSlope: {x: 0.50650764, y: -2.7046662e-29, z: -0.22746661}
+        outSlope: {x: 0.50650764, y: -2.7046662e-29, z: -0.22746661}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.23333335
+        value: {x: -1.2540596, y: -2.8421708e-15, z: -0.0005074159}
+        inSlope: {x: 2.142279, y: -2.704665e-29, z: -0.9620996}
+        outSlope: {x: 2.142279, y: -2.704665e-29, z: -0.9620996}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.43333334
+        value: {x: -0.79816496, y: -2.8421708e-15, z: -0.2052509}
+        inSlope: {x: 2.0156722, y: -2.7046662e-29, z: -0.9052395}
+        outSlope: {x: 2.0156722, y: -2.7046662e-29, z: -0.9052395}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.46666667
+        value: {x: -0.73449445, y: -2.8421708e-15, z: -0.2338455}
+        inSlope: {x: 0.00056996127, y: -2.7046662e-29, z: -0.00026499506}
+        outSlope: {x: 0.00056996127, y: -2.7046662e-29, z: -0.00026499506}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.5
+        value: {x: -0.7532286, y: -2.8421708e-15, z: -0.22543195}
+        inSlope: {x: -0.56201243, y: -2.7046638e-29, z: 0.2524047}
+        outSlope: {x: -0.56201243, y: -2.7046638e-29, z: 0.2524047}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.56666666
+        value: {x: -0.7804782, y: -2.8421708e-15, z: -0.2131941}
+        inSlope: {x: -0.0000016013697, y: -2.7046638e-29, z: -0.00000056000084}
+        outSlope: {x: -0.0000016013697, y: -2.7046638e-29, z: -0.00000056000084}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333333
+        value: {x: -0.7804782, y: -2.8421708e-15, z: -0.2131941}
+        inSlope: {x: -2.1570031e-14, y: -2.7046638e-29, z: -1.903238e-15}
+        outSlope: {x: -2.1570031e-14, y: -2.7046638e-29, z: -1.903238e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.1
+        value: {x: -1.2300324, y: -2.8421708e-15, z: -0.011298073}
+        inSlope: {x: -2.5155823, y: -2.7046686e-29, z: 1.1297528}
+        outSlope: {x: -2.5155823, y: -2.7046686e-29, z: 1.1297528}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.1666667
+        value: {x: -1.3951032, y: -2.8421708e-15, z: 0.062835686}
+        inSlope: {x: -2.3574717, y: -2.704659e-29, z: 1.0587478}
+        outSlope: {x: -2.3574717, y: -2.704659e-29, z: 1.0587478}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.038576838, y: 0.44223228, z: -0.3923546}
+        inSlope: {x: -1.1102229e-15, y: 0.000004903335, z: -5.075305e-15}
+        outSlope: {x: -1.1102229e-15, y: 0.000004903335, z: -5.075305e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.36666667
+        value: {x: -0.038576838, y: 0.45223227, z: -0.3923546}
+        inSlope: {x: -4.758099e-16, y: -0, z: 5.0753054e-15}
+        outSlope: {x: -4.758099e-16, y: -0, z: 5.0753054e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.46666667
+        value: {x: -0.038576838, y: 0.43839395, z: -0.3923546}
+        inSlope: {x: -4.758099e-16, y: -0.3632416, z: 5.0753054e-15}
+        outSlope: {x: -4.758099e-16, y: -0.3632416, z: 5.0753054e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.56666666
+        value: {x: -0.038576838, y: 0.3916896, z: -0.3923546}
+        inSlope: {x: -4.758095e-16, y: -0.4566535, z: 5.075301e-15}
+        outSlope: {x: -4.758095e-16, y: -0.4566535, z: 5.075301e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.59999996
+        value: {x: -0.038576838, y: 0.37750533, z: -0.3923546}
+        inSlope: {x: -4.7581033e-16, y: -0.00013192616, z: 5.0753096e-15}
+        outSlope: {x: -4.7581033e-16, y: -0.00013192616, z: 5.0753096e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666666
+        value: {x: -0.038576838, y: 0.38799918, z: -0.3923546}
+        inSlope: {x: -4.7581033e-16, y: 0.000037531136, z: 5.0753096e-15}
+        outSlope: {x: -4.7581033e-16, y: 0.000037531136, z: 5.0753096e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.96666664
+        value: {x: -0.038576838, y: 0.38799918, z: -0.3923546}
+        inSlope: {x: -4.758095e-16, y: 1.903238e-15, z: 5.075301e-15}
+        outSlope: {x: -4.758095e-16, y: 1.903238e-15, z: 5.075301e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.038576838, y: -0.42411184, z: -0.3923546}
+        inSlope: {x: -1.1102229e-15, y: -0.000004903335, z: -5.075305e-15}
+        outSlope: {x: -1.1102229e-15, y: -0.000004903335, z: -5.075305e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.36666667
+        value: {x: -0.038576838, y: -0.43411186, z: -0.3923546}
+        inSlope: {x: -4.758099e-16, y: -0, z: 5.0753054e-15}
+        outSlope: {x: -4.758099e-16, y: -0, z: 5.0753054e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.46666667
+        value: {x: -0.038576838, y: -0.42027354, z: -0.3923546}
+        inSlope: {x: -4.758099e-16, y: 0.3632416, z: 5.0753054e-15}
+        outSlope: {x: -4.758099e-16, y: 0.3632416, z: 5.0753054e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.56666666
+        value: {x: -0.038576838, y: -0.37356916, z: -0.3923546}
+        inSlope: {x: -4.758095e-16, y: 0.45665464, z: 5.075301e-15}
+        outSlope: {x: -4.758095e-16, y: 0.45665464, z: 5.075301e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.59999996
+        value: {x: -0.038576838, y: -0.35938492, z: -0.3923546}
+        inSlope: {x: -4.7581033e-16, y: 0.00013192616, z: 5.0753096e-15}
+        outSlope: {x: -4.7581033e-16, y: 0.00013192616, z: 5.0753096e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666666
+        value: {x: -0.038576838, y: -0.36987877, z: -0.3923546}
+        inSlope: {x: -4.7581033e-16, y: -0.000030937153, z: 5.0753096e-15}
+        outSlope: {x: -4.7581033e-16, y: -0.000030937153, z: 5.0753096e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.96666664
+        value: {x: -0.038576838, y: -0.36987877, z: -0.3923546}
+        inSlope: {x: -4.758095e-16, y: -1.903238e-15, z: 5.075301e-15}
+        outSlope: {x: -4.758095e-16, y: -1.903238e-15, z: 5.075301e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.8093011, y: -1.7053025e-15, z: -4.2632563e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 2461408153
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 284664964
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3456557005
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1381030260
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3411642574
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1381030260
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3411642574
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2123865206
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2045561967
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2123865206
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2045561967
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2461408153
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 284664964
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3456557005
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2045561967
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 284664964
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3456557005
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1381030260
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3411642574
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2123865206
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.1666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.28468737
+        inSlope: -8.881783e-15
+        outSlope: -8.881783e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: -0.28468737
+        inSlope: -3.8064792e-15
+        outSlope: -3.8064792e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.15048385
+        inSlope: 0.52415425
+        outSlope: 0.52415425
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -0.13406615
+        inSlope: 0.00015477715
+        outSlope: 0.00015477715
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6333333
+        value: -0.14316545
+        inSlope: -0.21837957
+        outSlope: -0.21837957
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -0.14862503
+        inSlope: -0.000050617375
+        outSlope: -0.000050617375
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9333333
+        value: -0.14862503
+        inSlope: -1.427431e-15
+        outSlope: -1.427431e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -5.684342e-16
+        inSlope: -7.888608e-30
+        outSlope: -7.888608e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: -5.684342e-16
+        inSlope: -3.3808327e-30
+        outSlope: -3.3808327e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -5.684342e-16
+        inSlope: -3.3808297e-30
+        outSlope: -3.3808297e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -5.684342e-16
+        inSlope: -3.3808357e-30
+        outSlope: -3.3808357e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6333333
+        value: -5.684342e-16
+        inSlope: -3.3808297e-30
+        outSlope: -3.3808297e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -5.684342e-16
+        inSlope: -3.3808357e-30
+        outSlope: -3.3808357e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9333333
+        value: -5.684342e-16
+        inSlope: -3.3808357e-30
+        outSlope: -3.3808357e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.1089705
+        inSlope: -1.1419435e-14
+        outSlope: -1.1419435e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: -1.1089705
+        inSlope: 2.4107701e-14
+        outSlope: 2.4107701e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.81014454
+        inSlope: 1.1671327
+        outSlope: 1.1671327
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -0.77358794
+        inSlope: 0.00032463323
+        outSlope: 0.00032463323
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6333333
+        value: -0.793849
+        inSlope: -0.48625198
+        outSlope: -0.48625198
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -0.8060056
+        inSlope: -0.000100112426
+        outSlope: -0.000100112426
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9333333
+        value: -0.8060056
+        inSlope: -7.612965e-15
+        outSlope: -7.612965e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.37648737
+        inSlope: 4.4408917e-15
+        outSlope: 4.4408917e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: 0.37648737
+        inSlope: 1.9032396e-15
+        outSlope: 1.9032396e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0.1978922
+        inSlope: -0.69753736
+        outSlope: -0.69753736
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: 0.17604388
+        inSlope: -0.0002056522
+        outSlope: -0.0002056522
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6333333
+        value: 0.19405374
+        inSlope: 0.43223158
+        outSlope: 0.43223158
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: 0.20485963
+        inSlope: 0.00009981833
+        outSlope: 0.00009981833
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9
+        value: 0.20485963
+        inSlope: 1.903238e-15
+        outSlope: 1.903238e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 5.684342e-16
+        inSlope: 7.888608e-30
+        outSlope: 7.888608e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: 5.684342e-16
+        inSlope: 3.3808327e-30
+        outSlope: 3.3808327e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 5.684342e-16
+        inSlope: 3.3808297e-30
+        outSlope: 3.3808297e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: 5.684342e-16
+        inSlope: 3.3808357e-30
+        outSlope: 3.3808357e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6333333
+        value: 5.684342e-16
+        inSlope: 3.3808297e-30
+        outSlope: 3.3808297e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: 5.684342e-16
+        inSlope: 3.3808357e-30
+        outSlope: 3.3808357e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9
+        value: 5.684342e-16
+        inSlope: 3.3808297e-30
+        outSlope: 3.3808297e-30
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.73433906
+        inSlope: -1.7763567e-14
+        outSlope: -1.7763567e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: -0.73433906
+        inSlope: -7.6129585e-15
+        outSlope: -7.6129585e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.6541315
+        inSlope: 0.3132854
+        outSlope: 0.3132854
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -0.64431936
+        inSlope: 0.00008867575
+        outSlope: 0.00008867575
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6333333
+        value: -0.6524076
+        inSlope: -0.19411273
+        outSlope: -0.19411273
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -0.6572606
+        inSlope: -0.00003420307
+        outSlope: -0.00003420307
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9
+        value: -0.6572606
+        inSlope: -5.7097136e-15
+        outSlope: -5.7097136e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.5073344
+        inSlope: -2.030122e-14
+        outSlope: -2.030122e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.06666666
+        value: -1.4985402
+        inSlope: 0.50650764
+        outSlope: 0.50650764
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.23333335
+        value: -1.2540596
+        inSlope: 2.142279
+        outSlope: 2.142279
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.43333334
+        value: -0.79816496
+        inSlope: 2.0156722
+        outSlope: 2.0156722
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: -0.73449445
+        inSlope: 0.00056996127
+        outSlope: 0.00056996127
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: -0.7532286
+        inSlope: -0.56201243
+        outSlope: -0.56201243
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.7804782
+        inSlope: -0.0000016013697
+        outSlope: -0.0000016013697
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333333
+        value: -0.7804782
+        inSlope: -2.1570031e-14
+        outSlope: -2.1570031e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1
+        value: -1.2300324
+        inSlope: -2.5155823
+        outSlope: -2.5155823
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1666667
+        value: -1.3951032
+        inSlope: -2.3574717
+        outSlope: -2.3574717
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.8421708e-15
+        inSlope: -6.3108866e-29
+        outSlope: -6.3108866e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.06666666
+        value: -2.8421708e-15
+        inSlope: -2.7046662e-29
+        outSlope: -2.7046662e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.23333335
+        value: -2.8421708e-15
+        inSlope: -2.704665e-29
+        outSlope: -2.704665e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.43333334
+        value: -2.8421708e-15
+        inSlope: -2.7046662e-29
+        outSlope: -2.7046662e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: -2.8421708e-15
+        inSlope: -2.7046662e-29
+        outSlope: -2.7046662e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: -2.8421708e-15
+        inSlope: -2.7046638e-29
+        outSlope: -2.7046638e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -2.8421708e-15
+        inSlope: -2.7046638e-29
+        outSlope: -2.7046638e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333333
+        value: -2.8421708e-15
+        inSlope: -2.7046638e-29
+        outSlope: -2.7046638e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1
+        value: -2.8421708e-15
+        inSlope: -2.7046686e-29
+        outSlope: -2.7046686e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1666667
+        value: -2.8421708e-15
+        inSlope: -2.704659e-29
+        outSlope: -2.704659e-29
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.11323899
+        inSlope: 1.4274293e-15
+        outSlope: 1.4274293e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.06666666
+        value: 0.10928946
+        inSlope: -0.22746661
+        outSlope: -0.22746661
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.23333335
+        value: -0.0005074159
+        inSlope: -0.9620996
+        outSlope: -0.9620996
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.43333334
+        value: -0.2052509
+        inSlope: -0.9052395
+        outSlope: -0.9052395
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: -0.2338455
+        inSlope: -0.00026499506
+        outSlope: -0.00026499506
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: -0.22543195
+        inSlope: 0.2524047
+        outSlope: 0.2524047
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.2131941
+        inSlope: -0.00000056000084
+        outSlope: -0.00000056000084
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333333
+        value: -0.2131941
+        inSlope: -1.903238e-15
+        outSlope: -1.903238e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1
+        value: -0.011298073
+        inSlope: 1.1297528
+        outSlope: 1.1297528
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1666667
+        value: 0.062835686
+        inSlope: 1.0587478
+        outSlope: 1.0587478
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.038576838
+        inSlope: -1.1102229e-15
+        outSlope: -1.1102229e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.36666667
+        value: -0.038576838
+        inSlope: -4.758099e-16
+        outSlope: -4.758099e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: -0.038576838
+        inSlope: -4.758099e-16
+        outSlope: -4.758099e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.038576838
+        inSlope: -4.758095e-16
+        outSlope: -4.758095e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -0.038576838
+        inSlope: -4.7581033e-16
+        outSlope: -4.7581033e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -0.038576838
+        inSlope: -4.7581033e-16
+        outSlope: -4.7581033e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.96666664
+        value: -0.038576838
+        inSlope: -4.758095e-16
+        outSlope: -4.758095e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.44223228
+        inSlope: 0.000004903335
+        outSlope: 0.000004903335
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.36666667
+        value: 0.45223227
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: 0.43839395
+        inSlope: -0.3632416
+        outSlope: -0.3632416
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0.3916896
+        inSlope: -0.4566535
+        outSlope: -0.4566535
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: 0.37750533
+        inSlope: -0.00013192616
+        outSlope: -0.00013192616
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: 0.38799918
+        inSlope: 0.000037531136
+        outSlope: 0.000037531136
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.96666664
+        value: 0.38799918
+        inSlope: 1.903238e-15
+        outSlope: 1.903238e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.3923546
+        inSlope: -5.075305e-15
+        outSlope: -5.075305e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.36666667
+        value: -0.3923546
+        inSlope: 5.0753054e-15
+        outSlope: 5.0753054e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: -0.3923546
+        inSlope: 5.0753054e-15
+        outSlope: 5.0753054e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.3923546
+        inSlope: 5.075301e-15
+        outSlope: 5.075301e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -0.3923546
+        inSlope: 5.0753096e-15
+        outSlope: 5.0753096e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -0.3923546
+        inSlope: 5.0753096e-15
+        outSlope: 5.0753096e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.96666664
+        value: -0.3923546
+        inSlope: 5.075301e-15
+        outSlope: 5.075301e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.038576838
+        inSlope: -1.1102229e-15
+        outSlope: -1.1102229e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.36666667
+        value: -0.038576838
+        inSlope: -4.758099e-16
+        outSlope: -4.758099e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: -0.038576838
+        inSlope: -4.758099e-16
+        outSlope: -4.758099e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.038576838
+        inSlope: -4.758095e-16
+        outSlope: -4.758095e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -0.038576838
+        inSlope: -4.7581033e-16
+        outSlope: -4.7581033e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -0.038576838
+        inSlope: -4.7581033e-16
+        outSlope: -4.7581033e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.96666664
+        value: -0.038576838
+        inSlope: -4.758095e-16
+        outSlope: -4.758095e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.42411184
+        inSlope: -0.000004903335
+        outSlope: -0.000004903335
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.36666667
+        value: -0.43411186
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: -0.42027354
+        inSlope: 0.3632416
+        outSlope: 0.3632416
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.37356916
+        inSlope: 0.45665464
+        outSlope: 0.45665464
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -0.35938492
+        inSlope: 0.00013192616
+        outSlope: 0.00013192616
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -0.36987877
+        inSlope: -0.000030937153
+        outSlope: -0.000030937153
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.96666664
+        value: -0.36987877
+        inSlope: -1.903238e-15
+        outSlope: -1.903238e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.3923546
+        inSlope: -5.075305e-15
+        outSlope: -5.075305e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.36666667
+        value: -0.3923546
+        inSlope: 5.0753054e-15
+        outSlope: 5.0753054e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.46666667
+        value: -0.3923546
+        inSlope: 5.0753054e-15
+        outSlope: 5.0753054e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.3923546
+        inSlope: 5.075301e-15
+        outSlope: 5.075301e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.59999996
+        value: -0.3923546
+        inSlope: 5.0753096e-15
+        outSlope: 5.0753096e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6666666
+        value: -0.3923546
+        inSlope: 5.0753096e-15
+        outSlope: 5.0753096e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.96666664
+        value: -0.3923546
+        inSlope: 5.075301e-15
+        outSlope: 5.075301e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.8093011
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.7053025e-15
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.2632563e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5432846
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.8395486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.775558e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.4758845e-15
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.3306693e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0055968165
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9999843
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.4758845e-15
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.3306693e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0055968165
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9999843
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.4758845e-15
+        inSlope: 0
+        outSlope: -0.0036990524
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -0.0009268786
+        inSlope: 0.022789389
+        outSlope: 0.022795748
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: -0.0032032675
+        inSlope: -0.018872784
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.3306693e-16
+        inSlope: 0
+        outSlope: -0.000015588006
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -0.0000051876505
+        inSlope: 0.0003341165
+        outSlope: 0.00033268495
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: -0.000017928376
+        inSlope: 0.00002692104
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0055968165
+        inSlope: 0
+        outSlope: -0.0082360925
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -0.0076606465
+        inSlope: 0.050754167
+        outSlope: 0.050763592
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: -0.0127292415
+        inSlope: -0.04202872
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9999843
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 0.99997026
+        inSlope: 0.0004470348
+        outSlope: 0.00035762784
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.9999139
+        inSlope: -0.0004768371
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.4758845e-15
+        inSlope: 0
+        outSlope: 0.003698996
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 0.0009268784
+        inSlope: -0.02279201
+        outSlope: -0.022797728
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.0032032675
+        inSlope: 0.018871387
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.3306693e-16
+        inSlope: 0
+        outSlope: 0.000025818163
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 0.00000518765
+        inSlope: 0.00007899643
+        outSlope: 0.000077500765
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.000017928378
+        inSlope: 0.00023812751
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0055968165
+        inSlope: 0
+        outSlope: 0.00823522
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -0.0035329561
+        inSlope: -0.05075504
+        outSlope: -0.05076499
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.0015359509
+        inSlope: 0.042028952
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9999843
+        inSlope: 0
+        outSlope: 0.0001117587
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 0.9999933
+        inSlope: -0.0002235174
+        outSlope: -0.000119209275
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.9999937
+        inSlope: -0.000119209275
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.16666669
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: 0
+        inSlope: 0
+        outSlope: -3.642985e-19
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.40000004
+        value: -1.2404845e-17
+        inSlope: 2.429119e-16
+        outSlope: 2.4219856e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: -3.66934e-17
+        inSlope: 9.944369e-16
+        outSlope: 9.918218e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -4.3635673e-17
+        inSlope: 3.8039026e-15
+        outSlope: 3.8020234e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -4.9522728e-17
+        inSlope: 4.3927302e-15
+        outSlope: 4.3927226e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6
+        value: -4.8520654e-17
+        inSlope: 4.3719767e-15
+        outSlope: 4.3786305e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.7666667
+        value: -4.7046056e-17
+        inSlope: 8.4038893e-16
+        outSlope: 8.434265e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333334
+        value: -4.5645332e-17
+        inSlope: 2.0977468e-15
+        outSlope: 2.0991535e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: -2.7251103e-17
+        inSlope: 9.028183e-16
+        outSlope: 9.036519e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0000001
+        value: -7.239681e-18
+        inSlope: 3.513733e-16
+        outSlope: 3.5151073e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0666667
+        value: 0
+        inSlope: -2.3892574e-20
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5432846
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.16666669
+        value: -0.5432846
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: -0.58397925
+        inSlope: -1.1241437
+        outSlope: -1.1251864
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.40000004
+        value: -0.8011073
+        inSlope: -1.7036495
+        outSlope: -1.7029053
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: -0.94011265
+        inSlope: -0.9536747
+        outSlope: -0.9530775
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -0.9670836
+        inSlope: -0.6526703
+        outSlope: -0.6508833
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -0.98444736
+        inSlope: -0.17523782
+        outSlope: -0.1752375
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6
+        value: -0.98188424
+        inSlope: 0.0804662
+        outSlope: 0.07975101
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.7666667
+        value: -0.97781074
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333334
+        value: -0.97362006
+        inSlope: 0.24765731
+        outSlope: 0.24855146
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: -0.8937031
+        inSlope: 1.4454131
+        outSlope: 1.4457082
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0000001
+        value: -0.76374775
+        inSlope: 2.3442466
+        outSlope: 2.3442528
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0666667
+        value: -0.59126085
+        inSlope: 2.6017451
+        outSlope: 2.5981596
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1000001
+        value: -0.5067726
+        inSlope: 1.0532113
+        outSlope: 1.0514269
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333334
+        value: -0.5234259
+        inSlope: -0.49889135
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.16666669
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: 0
+        inSlope: 0
+        outSlope: 6.99646e-19
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.40000004
+        value: 1.2404844e-17
+        inSlope: -3.1371027e-16
+        outSlope: -3.1136743e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 3.6693394e-17
+        inSlope: -1.2002726e-15
+        outSlope: -1.1955066e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 4.363568e-17
+        inSlope: -4.0280355e-15
+        outSlope: -4.023774e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 4.9522737e-17
+        inSlope: -4.491893e-15
+        outSlope: -4.4910907e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6
+        value: 4.852066e-17
+        inSlope: -4.331478e-15
+        outSlope: -4.338489e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.7666667
+        value: 4.7046063e-17
+        inSlope: -8.41183e-16
+        outSlope: -8.4357536e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333334
+        value: 4.5645335e-17
+        inSlope: -1.998634e-15
+        outSlope: -2.0009506e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: 2.7251105e-17
+        inSlope: -7.258347e-16
+        outSlope: -7.2872833e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0000001
+        value: 7.239681e-18
+        inSlope: -2.9887637e-16
+        outSlope: -2.9910052e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0666667
+        value: 0
+        inSlope: 3.403941e-20
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.8395486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.16666669
+        value: 0.8395486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: 0.8117686
+        inSlope: -0.80823904
+        outSlope: -0.80957997
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.40000004
+        value: 0.5985208
+        inSlope: -2.278983
+        outSlope: -2.2798784
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 0.34086385
+        inSlope: -2.6288638
+        outSlope: -2.6294568
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 0.25445905
+        inSlope: -2.479253
+        outSlope: -2.4801517
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0.17567977
+        inSlope: -0.9821365
+        outSlope: -0.9785584
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6
+        value: 0.18948188
+        inSlope: 0.4179772
+        outSlope: 0.41297072
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.7666667
+        value: 0.20949031
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333334
+        value: 0.22817528
+        inSlope: 1.0550023
+        outSlope: 1.0596219
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: 0.44865888
+        inSlope: 2.8809915
+        outSlope: 2.8780053
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0000001
+        value: 0.6455148
+        inSlope: 2.7742934
+        outSlope: 2.7725127
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0666667
+        value: 0.8064804
+        inSlope: 1.9079465
+        outSlope: 1.9043634
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1000001
+        value: 0.8620798
+        inSlope: 0.62048274
+        outSlope: 0.6186968
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333334
+        value: 0.8520712
+        inSlope: -0.30577213
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 65.815025
+        inSlope: 0.000011638059
+        outSlope: 0.000011638059
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.180555e-14
+        inSlope: 4.851694e-14
+        outSlope: 4.851694e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Ammo
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.839246e-13
+        inSlope: 4.3310535e-13
+        outSlope: 4.3310535e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.6578156e-14
+        inSlope: 5.5797184e-14
+        outSlope: 5.5797184e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6413512
+        inSlope: -0.000009455923
+        outSlope: -0.000009455923
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Back
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.839246e-13
+        inSlope: 4.3310535e-13
+        outSlope: 4.3310535e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.6578156e-14
+        inSlope: 5.5797184e-14
+        outSlope: 5.5797184e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6413512
+        inSlope: -0.000009455923
+        outSlope: -0.000009455923
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Barrels
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.839246e-13
+        inSlope: -0.42151448
+        outSlope: -0.42151448
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -0.1062139
+        inSlope: 2.6172206
+        outSlope: 2.6172206
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: -0.36706442
+        inSlope: -2.162573
+        outSlope: -2.162573
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.6578156e-14
+        inSlope: 0.00060081476
+        outSlope: 0.00060081476
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 0.00021921325
+        inSlope: 0.012843157
+        outSlope: 0.012843157
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.0026182793
+        inSlope: 0.046088416
+        outSlope: 0.046088416
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6413512
+        inSlope: -0.93850756
+        outSlope: -0.93850756
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -0.8778545
+        inSlope: 5.827996
+        outSlope: 5.827996
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: -1.4587188
+        inSlope: -4.8169007
+        outSlope: -4.8169007
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.839246e-13
+        inSlope: 0.42151448
+        outSlope: 0.42151448
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 0.10621389
+        inSlope: -2.6172206
+        outSlope: -2.6172206
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.36706442
+        inSlope: 2.162573
+        outSlope: 2.162573
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.6578156e-14
+        inSlope: 0.00060081476
+        outSlope: 0.00060081476
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 0.00021921341
+        inSlope: 0.012843157
+        outSlope: 0.012843157
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.0026182788
+        inSlope: 0.04608842
+        outSlope: 0.04608842
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6413512
+        inSlope: 0.9384378
+        outSlope: 0.9384378
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -0.4048477
+        inSlope: -5.8279805
+        outSlope: -5.8279805
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0333334
+        value: 0.17601636
+        inSlope: 4.8168263
+        outSlope: 4.8168263
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Half_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.16666669
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.40000004
+        value: 2.8797468e-16
+        inSlope: -6.4794294e-15
+        outSlope: -6.4794294e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 2.5196928e-15
+        inSlope: -7.559081e-14
+        outSlope: -7.559081e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 3.563322e-15
+        inSlope: -3.206987e-13
+        outSlope: -3.206987e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 4.589665e-15
+        inSlope: -4.1307024e-13
+        outSlope: -4.1307024e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6
+        value: 4.4058025e-15
+        inSlope: -3.9652187e-13
+        outSlope: -3.9652187e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.7666667
+        value: 4.142078e-15
+        inSlope: -7.45574e-14
+        outSlope: -7.45574e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333334
+        value: 3.899101e-15
+        inSlope: -1.7545955e-13
+        outSlope: -1.7545955e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: 1.3897602e-15
+        inSlope: -4.1692822e-14
+        outSlope: -4.1692822e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0000001
+        value: 9.808681e-17
+        inSlope: -4.413899e-15
+        outSlope: -4.413899e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0666667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1000001
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -65.815025
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.16666669
+        value: -65.815025
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: -71.461815
+        inSlope: -158.71126
+        outSlope: -158.71126
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.40000004
+        value: -106.47193
+        inSlope: -326.0735
+        outSlope: -326.0735
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: -140.14096
+        inSlope: -320.37198
+        outSlope: -320.37198
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: -150.51692
+        inSlope: -293.8552
+        outSlope: -293.8552
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: -159.76355
+        inSlope: -114.3568
+        outSlope: -114.3568
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6
+        value: -158.15489
+        inSlope: 48.257404
+        outSlope: 48.257404
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.7666667
+        value: -155.81502
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333334
+        value: -153.62065
+        inSlope: 124.51905
+        outSlope: 124.51905
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: -126.68465
+        inSlope: 369.2625
+        outSlope: 369.2625
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0000001
+        value: -99.59142
+        inSlope: 416.23828
+        outSlope: 416.23828
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0666667
+        value: -72.49306
+        inSlope: 369.75485
+        outSlope: 369.75485
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1000001
+        value: -60.898174
+        inSlope: 140.10655
+        outSlope: 140.10655
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333334
+        value: -63.12466
+        inSlope: -66.78904
+        outSlope: -66.78904
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.16666669
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.40000004
+        value: 1.9895576e-15
+        inSlope: -4.4765037e-14
+        outSlope: -4.4765037e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 5.3861906e-15
+        inSlope: -1.6158578e-13
+        outSlope: -1.6158578e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.53333336
+        value: 6.108054e-15
+        inSlope: -5.497244e-13
+        outSlope: -5.497244e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 6.58359e-15
+        inSlope: -5.9252364e-13
+        outSlope: -5.9252364e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.6
+        value: 6.512862e-15
+        inSlope: -5.861571e-13
+        outSlope: -5.861571e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.7666667
+        value: 6.4008357e-15
+        inSlope: -1.1521503e-13
+        outSlope: -1.1521503e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8333334
+        value: 6.2860738e-15
+        inSlope: -2.8287333e-13
+        outSlope: -2.8287333e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: 4.1918555e-15
+        inSlope: -1.257557e-13
+        outSlope: -1.257557e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0000001
+        value: 1.1691331e-15
+        inSlope: -5.26109e-14
+        outSlope: -5.26109e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.0666667
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1000001
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: ROOT/Pelvis/Top/Mount_Top/Shoulders_Med_Tank/Mount_Weapon_L/HalfShoulder_Extender/Extender_Base/Extender_Weapon/Mount_Weapon/Weapon_GLauncher_lvl3/GLauncher/Lid
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.33333334
+    functionName: Skill_EventSend
+    data: HeavyShieldGLauncher
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
